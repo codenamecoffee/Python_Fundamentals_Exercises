@@ -20,3 +20,4 @@ altura = 1.75         # Float
 es_estudiante = True  # Boolean
 dato12 = None         # Null values (Note that it's not written as "null")
 
+print("Lista:\n" + "- " + nombre)

@@ -68,6 +68,9 @@ print(s[1:4])  # 'yth'
 
 # => Shows from index 1(y) to 4 without including it, so 3(h)
 
+print(s[:3])    # 'pyt' (from the beginning to index 2)
+print(s[::2])   # 'pto' (every 2 characters, from beginning to ending)
+
 
 # Concatenation
 nuevo = s + "3"  # 'python3'
