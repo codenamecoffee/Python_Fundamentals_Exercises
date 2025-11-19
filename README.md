@@ -18,10 +18,6 @@ This repository contains a collection of Python modules and scripts designed to 
 
 - **challenges/**  
   Solve practical exercises such as password validation, guessing games, and simple battle simulations.
-  
-- **algorithms/**  
-  Practice classic algorithms and problem-solving exercises organized by topic.  
-  Includes array manipulation, string processing, recursion, searching, and sorting — useful for technical interviews and coding assessments.
 
 
 ## How to Use
